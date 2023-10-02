@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "651aafc5e39ace7e6dd9114a"
+  },
+  "icon": "fa-solid fa-capsules",
+  "title": "Medicines",
+  "description": "Medicines are intended to help us live longer and healthier, but taking medicines the wrong way or mixing certain drugs and supplements can be dangerous.",
+  "linkText": "Order",
+  "link": "https://www.drugs.com/  ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aafc5e39ace7e6dd9114b"
+  },
+  "icon": "fa-solid fa-people-arrows",
+  "title": "1-1 Physican Expert Consultancy",
+  "description": "A Consultant Doctor typically works in a hospital, and their main duty is to carry out the investigations and procedures necessary to establish a diagnosis enhancements.",
+  "linkText": "Consult",
+  "link": "https://dribbble.com/tags/doctor_website",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aafc5e39ace7e6dd91149"
+  },
+  "icon": "fa-solid fa-hand-holding-medical",
+  "title": "Provide Best Health-care",
+  "description": "The improvement of health through the prevention, diagnosis, treatment, amelioration, or cure of disease, illness, injury, and other physical and mental impairments in people is referred to as health care.",
+  "linkText": "Check",
+  "link": "https://www.g2.com/categories/healthcare-service",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ab272b5dfb234a433f961"
+  },
+  "icon": "fa-solid fa-truck-medical",
+  "title": "Superfast ambulance service",
+  "description": "The improvement of health through the prevention, diagnosis, treatment, amelioration, or cure of disease, illness, injury, and other physical and mental impairments in people is referred to as health care.",
+  "linkText": "Call Now",
+  "link": "https://www.g2.com/categories/healthcare-service",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ab2dcb5dfb234a433f962"
+  },
+  "icon": "fa-solid fa-truck-ramp-box",
+  "title": "Delhivery service",
+  "description": "The improvement of health through the prevention, diagnosis, treatment, amelioration, or cure of disease, illness, injury, and other physical and mental impairments in people is referred to as health care.",
+  "linkText": "Order/Call Now",
+  "link": "https://www.g2.com/categories/healthcare-service",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ab368b5dfb234a433f963"
+  },
+  "icon": "fa-solid fa-house-fire",
+  "title": "Emergency",
+  "description": "The improvement of health through the prevention, diagnosis, treatment, amelioration, or cure of disease, illness, injury, and other physical and mental impairments in people is referred to as health care.",
+  "linkText": "Call Now",
+  "link": "https://www.g2.com/categories/healthcare-service",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ab3ff912165fc41135fde"
+  },
+  "icon": "fa-solid fa-hand-holding-medical",
+  "title": "Provide Best Health-care",
+  "description": "The improvement of health through the prevention, diagnosis, treatment, amelioration, or cure of disease, illness, injury, and other physical and mental impairments in people is referred to as health care.",
+  "linkText": "Check",
+  "link": "https://www.g2.com/categories/healthcare-service",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ab3ff912165fc41135fdf"
+  },
+  "icon": "fa-solid fa-capsules",
+  "title": "Medicines",
+  "description": "Medicines are intended to help us live longer and healthier, but taking medicines the wrong way or mixing certain drugs and supplements can be dangerous.",
+  "linkText": "Order",
+  "link": "https://www.drugs.com/  ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ab3ff912165fc41135fe0"
+  },
+  "icon": "fa-solid fa-people-arrows",
+  "title": "1-1 Physican Expert Consultancy",
+  "description": "A Consultant Doctor typically works in a hospital, and their main duty is to carry out the investigations and procedures necessary to establish a diagnosis, and then to give advice and provide treatment to the patient.",
+  "linkText": "Consult",
+  "link": "https://dribbble.com/tags/doctor_website",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ab77198e1e071de442c44"
+  },
+  "icon": "fa-solid fa-hand-holding-medical",
+  "title": "Provide Best Health-care",
+  "description": "The improvement of health through the prevention, diagnosis, treatment, amelioration, or cure of disease, illness, injury, and other physical and mental impairments in people is referred to as health care.",
+  "linkText": "Check",
+  "link": "https://www.g2.com/categories/healthcare-service",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ab77198e1e071de442c45"
+  },
+  "icon": "fa-solid fa-capsules",
+  "title": "Medicines",
+  "description": "Medicines are intended to help us live longer and healthier, but taking medicines the wrong way or mixing certain drugs and supplements can be dangerous.",
+  "linkText": "Order",
+  "link": "https://www.drugs.com/  ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ab77198e1e071de442c46"
+  },
+  "icon": "fa-solid fa-people-arrows",
+  "title": "1-1 Physican Expert Consultancy",
+  "description": "A Consultant Doctor typically works in a hospital, and their main duty is to carry out the investigations and procedures necessary to establish a diagnosis, and then to give advice and provide treatment to the patient.",
+  "linkText": "Consult",
+  "link": "https://dribbble.com/tags/doctor_website",
+  "__v": 0
+}]
